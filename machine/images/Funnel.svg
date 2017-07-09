@@ -1,0 +1,25 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="146.2px" height="112.6px" viewBox="0 0 146.2 112.6" enable-background="new 0 0 146.2 112.6"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<polygon fill="#ABABAB" points="73.1,100.6 36.5,75.6 0,12.3 73.1,12.3 146.2,12.3 109.6,75.6 		"/>
+		<polygon fill="#6E6E6E" points="73.1,100.6 73.1,12.3 146.2,12.3 109.6,75.6 		"/>
+	</g>
+	<g>
+		<polygon fill="#C9C9C9" points="0,0 0,12.6 73.1,12.6 146.2,12.6 146.2,0 		"/>
+		<polygon fill="#ABABAB" points="73.2,0 73.2,12.6 73.1,12.6 146.2,12.6 146.2,0 		"/>
+	</g>
+	<g>
+		<polygon fill="#C9C9C9" points="110,76.3 36.2,76.3 36.2,98 36.2,99.1 110,99.1 		"/>
+		<polygon fill="#ABABAB" points="110,76.3 73.2,76.3 73.2,98 73.2,99.1 110,99.1 		"/>
+	</g>
+	<path fill="#ABABAB" d="M119.4,108.9c0,2-2.9,3.7-6.5,3.7H33.2c-3.6,0-6.5-1.7-6.5-3.7v-6.8c0-2,2.9-3.7,6.5-3.7h79.7
+		c3.6,0,6.5,1.7,6.5,3.7V108.9z"/>
+	<path fill="#6E6E6E" d="M119.4,108.9v-6.8H58c-3.6,0-6.5,1.7-6.5,3.7v6.8h61.4C116.5,112.6,119.4,111,119.4,108.9z"/>
+</g>
+</svg>
